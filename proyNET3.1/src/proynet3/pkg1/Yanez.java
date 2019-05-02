@@ -13,6 +13,7 @@ package proynet3.pkg1;
 public class Yanez {
     public static void main(String[] args) {
         System.out.println("Holaaaaa"); //byalvaro
+        System.out.println("sambo");
     }
     
 }
